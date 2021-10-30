@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "api",
+			"problemMatcher": [],
+			"label": "Start json server (fake api)",
+			"detail": "json-server db.json --port 3001"
+		},
+		{
+			"type": "npm",
+			"script": "start",
+			"problemMatcher": [],
+			"label": "Start Client",
+			"detail": "react-scripts start"
+		}
+	]
+}

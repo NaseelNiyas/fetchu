@@ -1,0 +1,8 @@
+# node modules
+node_modules/
+
+# out from react
+dist/
+
+# public
+public/

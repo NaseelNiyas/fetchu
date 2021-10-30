@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "new post",
+      "author": "naseel",
+      "id": 2
+    },
+    {
+      "author": "naseel",
+      "title": "Updated!!",
+      "id": 3
+    },
+    {
+      "title": "Naseel's First post",
+      "author": "nasee;",
+      "id": 4
+    },
+    {
+      "title": "My New Post",
+      "author": "naseel",
+      "id": 5
+    },
+    {
+      "title": "My New Post",
+      "author": "naseel",
+      "id": 6
+    },
+    {
+      "title": "my new post",
+      "author": "naseel",
+      "id": 7
+    },
+    {
+      "title": "My New Post!!",
+      "author": "naseel",
+      "id": 8
+    },
+    {
+      "title": "new post with size!",
+      "author": "naseel",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
